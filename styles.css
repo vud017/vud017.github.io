@@ -62,9 +62,14 @@ footer {
 .game-screenshot, .feature-image {
     display: block;
     margin: 1em auto;
-    max-width: 100%;
+    max-width: 80%; /* Adjust the max-width as needed */
     height: auto;
     border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
 }
