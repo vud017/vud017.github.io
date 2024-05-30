@@ -47,7 +47,6 @@ li {
     padding: 0.5em;
 }
 
-/*
 .download-button {
     display: inline-block;
     padding: 1em;
@@ -56,11 +55,9 @@ li {
     text-decoration: none;
     margin-top: 1em;
 }
-*/
-
 
 .download-button:hover {
-    background-color: #555;
+    background-color: #333;
 }
 
 footer {
