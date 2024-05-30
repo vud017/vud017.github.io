@@ -23,10 +23,13 @@ main {
     padding: 2em;
 }
 
-h1, h2 {
+h1 {
     color: white;
 }
 
+h2 {
+    color: #333;
+}
 p {
     line-height: 1.6;
 }
