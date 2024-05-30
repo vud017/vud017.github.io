@@ -31,6 +31,7 @@ h2 {
     color: #333;
     background-color: #f4f4f4;
 }
+
 p {
     line-height: 1.6;
 }
@@ -44,7 +45,7 @@ li {
     background: #eee;
     margin: 0.5em 0;
     padding: 0.5em;
-    border: 1px solid #333;
+    border: 1px solid #333; 
 }
 
 .download-button {
