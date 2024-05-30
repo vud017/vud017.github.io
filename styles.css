@@ -7,14 +7,14 @@ body {
 
 title {
     background-color: #333;
-    color: white;
+    color: #f4f4f4;
     padding: 1em 0;
     text-align: center;
 }
 
 header {
     background-color: #333;
-    color: white;
+    color: #f4f4f4;
     padding: 1em 0;
     text-align: center;
 }
@@ -24,11 +24,12 @@ main {
 }
 
 h1 {
-    color: white;
+    color: #f4f4f4;
 }
 
 h2 {
     color: #333;
+    background-color: #f4f4f4;
 }
 p {
     line-height: 1.6;
@@ -50,7 +51,7 @@ li {
     display: inline-block;
     padding: 1em;
     background-color: #333;
-    color: white;
+    color: #f4f4f4;
     text-decoration: none;
     margin-top: 1em;
 }
@@ -61,7 +62,7 @@ li {
 
 footer {
     background-color: #333;
-    color: white;
+    color: #f4f4f4;
     text-align: center;
     padding: 1em 0;
     position: fixed;
